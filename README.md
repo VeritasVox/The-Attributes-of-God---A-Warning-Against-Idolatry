@@ -1,4 +1,5 @@
 # The Attributes of God: A Warning Against Idolatry
+**Keywords**: Theology Proper • Divine Simplicity • Attributes of God • Holiness • Aseity • Immutability • Sovereignty • Reformed Theology • Biblical Theology • Idolatry • Doctrinal Error • Sound Doctrine • Gospel • Grace • Wrath • Justice • Love • Fear of God • Worship in Truth • Theological Precision
 
 > *"You thought that I was one like yourself. But now I rebuke you and lay the charge before you."* — Psalm 50:21
 
