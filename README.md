@@ -5,6 +5,7 @@
 
 A theological examination of God's nature, the danger of misrepresenting His character, and the relationship between sound doctrine and faithful worship.
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 ## Table of Contents
@@ -877,7 +878,18 @@ There is no middle path. You will either serve God or Mammon. You will either fe
 
 ## License
 
-This document is released into the public domain. Share freely. Modify freely. Translate freely. Use it to proclaim truth—without compromise.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 VeritasVox | Licensed under CC BY 4.0
 
 ---
 
